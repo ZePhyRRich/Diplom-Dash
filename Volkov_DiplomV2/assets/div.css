@@ -1,0 +1,12 @@
+
+
+.div_border {
+    background-color: #f44336;
+    color: white;
+    padding: '10px';
+    font-size: '18px';
+    text-align: 'center';
+    border: '1px solid black';
+    margin-top:'5px';
+    border-radius:'10px';
+}
