@@ -14,7 +14,7 @@ import pandas as pd
 import numpy as np
 
 
-dash.register_page(__name__, path_template="/load/<name>", name='WHAT') # '/' is home page
+dash.register_page(__name__, path_template="/load/<name>", name='График') # '/' is home page
 current_directory = os.getcwd()
 files = os.listdir(f"{current_directory}\library")
 
